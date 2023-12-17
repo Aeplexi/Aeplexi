@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://lanyard.cnrad.dev/api/415606064856301589" alt="Discord Status">
+- Contact me via Discord (@aep)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/415606064856301589)](https://discord.com/users/415606064856301589)
