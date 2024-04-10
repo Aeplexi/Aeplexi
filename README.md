@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 - Contact me via Discord (@aep)
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/415606064856301589)](https://discord.com/users/415606064856301589)
